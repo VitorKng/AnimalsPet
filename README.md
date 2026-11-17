@@ -1,6 +1,6 @@
 # 🐾 AnimalsPet
 
-Site institucional de uma pet shop, feito com HTML e CSS puros. A AnimalsPet é apresentada como um ecossistema dedicado ao cuidado, à saúde e à felicidade de cães, gatos e outros pets.
+Projeto acadêmico feito em sala de um site fictício com tema de pet shop, feito com HTML e CSS puros. A AnimalsPet é apresentada como um ecossistema dedicado ao cuidado, à saúde e à felicidade de cães, gatos e outros pets.
 
 🔗 **Acesse o site:** https://VitorKng.github.io/AnimalsPet
 
